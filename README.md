@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tothalex&label=Profile%20views&color=e5c07b&style=flat" alt="Alex Toth" />
+  <img src="https://komarev.com/ghpvc/?username=tothalex&label=Profile%20views&style=for-the-badge&color=gray" alt="Alex Toth" />
 </p>
 
 <div align="center" width="100">
