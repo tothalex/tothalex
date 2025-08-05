@@ -8,7 +8,7 @@
 </p
 <br>
 
-🏢 I am currently working as a **Software Engineer** at [fizz.hu](https://www.fizz.hu/); 🎓 Studied Software Engineering at [University of Debrecen](https://unideb.hu/en); 🏡 Lives in **Hungary** <img src="./assets/hungary.svg" width="15" height="15" style="vertical-align: middle;" />
+🏢 I am currently working as a Software Engineer at BlockBen, on a blockchain-based neobank. 🎓 Studied Software Engineering at [University of Debrecen](https://unideb.hu/en); 🏡 Lives in **Hungary** <img src="./assets/hungary.svg" width="15" height="15" style="vertical-align: middle;" />
 
 🔍 With a versatile background, I bring hands-on experience across multiple domains:
 - 💳 Fintech: Innovating secure payment solutions and digital banking tools.
